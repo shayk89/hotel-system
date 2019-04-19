@@ -33,7 +33,7 @@ Java Spring Project for Practicing Different Concepts. The Northwind of Spring A
 10. A receptionist should be able to retrieve a booking given a guest's name and check-in date
 11. An Employee should be able to view their work schedule
 
-#Technologies to Be Used
+# Technologies to Be Used
 * [https://developer.okta.com/ **Okta** for authentication]
 * Spring Boot for Backend
 * MySQL for DB (possibly Mongo in places where Objects do not have a lot of relationships to other Objects)
